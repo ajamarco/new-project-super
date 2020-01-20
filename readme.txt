@@ -1,5 +1,5 @@
 spurs
-estamos no new branch
+estamos no master
 
 arquivo modificado dentro do github
 
